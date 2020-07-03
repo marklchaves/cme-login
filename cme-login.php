@@ -25,7 +25,7 @@ function cme_login_logo() { ?>
 		.login {
 			background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://marklchaves.files.wordpress.com/2020/01/cewek-strideby-kampong-glam-ed-bw-wb.jpg);
 			background-size: cover;
-			background-position: center center;
+			background-position: center;
     		background-repeat: no-repeat;
     		background-attachment: fixed;
 		}
