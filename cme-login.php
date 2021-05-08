@@ -5,7 +5,7 @@
  * Description: A custom login page.
  * Author: caught my eye
  * Author URI: https://www.caughtmyeye.cc/
- * Version: 1.0.0
+ * Version: 1.2.0
  * License: GPL2+
  * License URI: https://www.gnu.org/licenses/gpl-2.0.txt
  *
@@ -23,7 +23,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 function cme_login_logo() { ?>
     <style>
 	.login {
-		background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://marklchaves.files.wordpress.com/2020/01/cewek-strideby-kampong-glam-ed-bw-wb.jpg);
+		background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/wp-content/plugins/cme-login/assets/cewek-strideby-kampong-glam-ed-bw-wb.webp);
 		background-size: cover;
 		background-position: center;
     		background-repeat: no-repeat;
@@ -34,7 +34,7 @@ function cme_login_logo() { ?>
 		box-shadow: 0 1px 1px rgba(0,0,0,.2);
 	}
         #login h1 a, .login h1 a {
-        	background-image: url(https://marklchaves.files.wordpress.com/2020/03/siteicon.png);
+        	background-image: url(/wp-content/plugins/cme-login/assets/cme-logo-480x480.png);
         	height:250px;
         	width:250px;
         	background-size: 250px 250px;
