@@ -6,6 +6,7 @@ This plugin will:
 
 1. Adds a background image to the WordPress admin login page.
 2. Make the login form's background colour a semi-transparent black.
+3. Change the default logo link from wordpress.org to your homepage's URL.
 
 ---
 
