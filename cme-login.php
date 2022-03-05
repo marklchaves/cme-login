@@ -6,7 +6,7 @@
  * Description: A neumorphic-like custom login page.
  * Author: caught my eye
  * Author URI: https://www.caughtmyeye.cc/
- * Version: 1.3.0
+ * Version: 1.4.0
  * License: GPL2+
  * License URI: https://www.gnu.org/licenses/gpl-2.0.txt
  *
